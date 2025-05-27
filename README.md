@@ -1,19 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Sean Dequiña</h1>
-<h3 align="center">A passionate front-end developer from philippines</h3>
+<h3 align="center">A dedicated **Front-End Developer** focused on creating responsive and accessible web interfaces.</h3>
 <p></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seanie3000&label=Profile%20views&color=0e75b6&style=flat" alt="seanie3000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently improving my skills in **UI/UX Design** and modern JavaScript frameworks.**
+- 🌱 I'm continuously learning and improving, with a strong interest in UI/UX principles and front-end performance optimization.**
 
 - 📫 How to reach me **seandequina3000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/seanie3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/seanie3000" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/seanie2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/seanie2021" height="30" width="40" /></a>
 <a href="https://instagram.com/seanieboy3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seanieboy3000" height="30" width="40" /></a>
 </p>
