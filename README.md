@@ -14,7 +14,7 @@ I'm continuously learning and improving, with a strong interest in UI/UX princip
 You can reach me through the following platforms:
 
 - 📧 Email: [seandequina3000@gmail.com](seandequina3000@gmail.com)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.co)  
+- 🌐 Portfolio: [yourportfolio.com](https://seandequina.netlify.app/)  
 - 📘 Facebook: [https://fb.com/https://www.facebook.com/seanie2021](https://fb.com/https://www.facebook.com/seanie2021)  
 - 📸 Instagram: [https://instagram.com/seanieboy3000](https://instagram.com/seanieboy3000)
 ## 💻 Tech Stack
